@@ -1,11 +1,11 @@
-About r-glm2
-============
+About r-glm2-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-glm2-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=glm2
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-glm2-feedstock/blob/main/LICENSE.txt)
 
 Summary: Fits generalized linear models using the same model specification as glm in the stats package, but with a modified default fitting method that provides greater stability for models that may fail to converge using glm.
 
